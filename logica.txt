@@ -1,0 +1,36 @@
+Tarefa: 
+- Fazer um bolo de chocolate com cobertura
+
+Entrada: 
+- Ingredientes.
+- Batedeira.
+- Forma. 
+
+Processamento:
+- Ligue o forno em temperatura média.
+- Coloque a manteiga na Batedeira.
+- Coloque o açucar na Batedeira.
+- Ligue a Batedeira.
+- Enquanto houver gemas, junte uma gema e depois bata até obter um creme homogênio.
+- Adicione o leite aos poucos.
+- Desligue a Batedeira.
+- Adicione a farrinha de trigo.
+- Adicione o chocolate em pó.
+- Adicione o fermento.
+- Reserve a massa obtida em algum lugar temporariamente.
+- Execute o algoritimo para obter as claras em neve.
+- Junte as claras em neve à massa de chocolate queestava reservada.
+- Misture a massa delicadamente.
+- Execute o algoritimo para untar a forma com manteiga e farinha.
+- Coloque a massa na forma.
+- Coloque a forma no forno.
+- Espere 30 minutos.
+- Tire a forma do forno.
+- Desenforme o bolo ainda quente.
+- Separe o bolo em um lugar temporário.
+- Faça a cobertura segundo o algoritimo de fazer a cobertura do bolo.
+- Coloque a cobertura no bolo.
+
+Saída:
+- Bolo pronto para consumo.
+
